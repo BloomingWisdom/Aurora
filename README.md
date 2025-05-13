@@ -15,8 +15,8 @@
 - 류우성([wooseongryu](https://github.com/wooseongryu))
 - 신혜리([BloomingWisdom](https://github.com/BloomingWisdom))
 - 박부경([bukyong](https://github.com/bukyong))
-- 고은([go-olv](https://github.com/go-olv))
-- 정윤([dlwjddbs](https://github.com/dlwjddbs))
+- 이고은([go-olv](https://github.com/go-olv))
+- 이정윤([dlwjddbs](https://github.com/dlwjddbs))
 
 ## 🛠️ 기술 스택  
 - 프론트엔드: HTML, CSS, JavaScript, Bootstrap, DataTables (AJAX), Toast UI (REST)
